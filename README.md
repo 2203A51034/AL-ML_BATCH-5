@@ -8,3 +8,4 @@ https://github.com/2203A51034/AL-ML_BATCH-5/blob/main/Assignment-6.ipynb <br/>
 https://github.com/2203A51034/AL-ML_BATCH-5/blob/main/Assignment_7.ipynb <br/>
 https://github.com/2203A51034/AL-ML_BATCH-5/blob/main/Assignment_8.ipynb <br/>
 https://github.com/2203A51034/AL-ML_BATCH-5/blob/main/Assignment_9.ipynb <br/>
+https://github.com/2203A51034/AL-ML_BATCH-5/blob/main/Assignment_10.ipynb <br/>
